@@ -1,0 +1,6 @@
+C:\irvine\examples\Project32_VS2017 - Copy\Debug\Project.exe
+C:\irvine\examples\Project32_VS2017 - Copy\Debug\Project.pdb
+C:\irvine\examples\Project32_VS2017 - Lab 1\Debug\Project.exe
+C:\irvine\examples\Project32_VS2017 - Lab 1\Debug\Project.pdb
+C:\irvine\examples\Project32_VS2017 - Calculator Project\Debug\Project.exe
+C:\irvine\examples\Project32_VS2017 - Calculator Project\Debug\Project.pdb
